@@ -1,3 +1,3 @@
-# Demo Project
+# Demo Git Repository
 
-This is first string.
+This is the first file in this repo.
